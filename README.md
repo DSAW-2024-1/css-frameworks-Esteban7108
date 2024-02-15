@@ -40,6 +40,11 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 | Total                             | 5          |
 
 
+## Vista celular Bootstrap
+<img src="Tele.png">
+
+## Vista computador Bootstrap
+<img src="Comp  .png">
 ## Recursos adicionales
 
 - [Documentación de Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
