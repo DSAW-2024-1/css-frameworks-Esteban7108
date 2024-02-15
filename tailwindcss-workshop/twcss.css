@@ -1,0 +1,335 @@
+@media screen and (max-width: 864px){
+    .container{
+        background: linear-gradient(to bottom, rgba(101,65,253,255), rgba(51,45,233,255)) ;
+        display: flex;
+        justify-content: center;
+        border-bottom-left-radius: 8%;
+        border-bottom-right-radius: 8%;
+        height: 45vh;
+        
+    }
+    .circle-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 200px; 
+        
+    }
+    .circle {
+    
+        width: 150px; 
+        height: 150px; 
+        border-radius: 50%; 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: black; 
+        background: linear-gradient(to bottom, rgba(74,35,203,255), rgba(70,51,239,255));
+        
+    }
+    #arriba{
+        font-size: 4rem;
+    }
+    .cien{
+        color: rgba(132,117,255,255);
+    }
+    .abajo{
+       
+        margin-top: 5%;
+    }
+    
+    #cajas{
+        margin-top: 7%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2vh;
+    }
+    .rounded-md {
+        border-radius: 2rem;
+    }
+    .bg-red-50  {
+        display: flex;
+        align-items: center;  
+        justify-content: start;
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;
+    }
+
+    
+    .bg-yellow-50 {
+        display: flex;
+        align-items: center;  
+        justify-content: start;
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;
+    }
+    .bg-green-50{
+        display: flex;
+        align-items: center;  
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;
+    }
+    .bg-blue-50{
+        display: flex;
+        align-items: center;  
+      
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;  
+    }
+    .blanco{
+        color: rgba(255,255,251,255);
+    }
+    .degra-container {
+        display: flex;
+        justify-content: center;
+    }
+    .degra-container {
+        display: flex;
+        justify-content: center;
+    }
+    #res{
+        font-size: 4.5vw;
+    }
+    .degra {
+        color: rgba(195, 180, 255, 255);
+        width: 75%;
+        text-align: center; 
+    }
+    
+    .titlea{
+        margin-left: 4vh;
+        font-size:larger ;
+    
+    }
+    .espaciado {
+        display: flex;
+        justify-content: space-between; 
+        align-items: center;
+        width: 100%;
+      }
+  
+
+  .texto {
+    margin-right: auto; 
+  }
+  
+
+  .numbers {
+    text-align: right;
+  }
+    .botoncon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 5%;
+        height: 60px; 
+        width: 85%;
+        border-radius: 50px;
+    }
+    
+    #bot{
+        margin-left: 7%;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+        height: 50px; 
+        width: 87%;
+        border-radius: 50px;
+
+    
+    background-color: #17152c; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+}
+@media screen and (min-width: 865px){
+
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+      
+      .container-padre {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 55%;
+        
+  }
+      
+      .container, .abajo {
+        height: 65%;
+        flex-basis: 50%;
+      }
+      
+             
+      .container{
+        background: linear-gradient(to bottom, rgba(101,65,253,255), rgba(51,45,233,255)) ;
+        display: flex;
+        justify-content: center;
+        border-radius: 8%;
+        
+      }
+    .circle-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 200px; 
+        
+    }
+    .circle {
+    
+        width: 150px; 
+        height: 150px; 
+        border-radius: 50%; 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: black; 
+        background: linear-gradient(to bottom, rgba(74,35,203,255), rgba(70,51,239,255));
+        
+    }
+    #arriba{
+        font-size: 4rem;
+    }
+    .cien{
+        color: rgba(132,117,255,255);
+    }
+    .abajo{
+        margin-top: 10%;
+
+    }
+    
+    #cajas{
+        margin-top: 7%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2vh;
+    }
+    .rounded-md {
+        border-radius: 2rem;
+    }
+    .bg-red-50  {
+        display: flex;
+        align-items: center;  
+        justify-content: start;
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;
+    }
+
+    
+    .bg-yellow-50 {
+        display: flex;
+        align-items: center;  
+        justify-content: start;
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;
+    }
+    .bg-green-50{
+        display: flex;
+        align-items: center;  
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;
+    }
+    .bg-blue-50{
+        display: flex;
+        align-items: center;  
+        justify-content: start;
+        width: 85%;
+        height: 6vh;
+        margin-bottom: 0.8rem;  
+    }
+    .rounded-md{
+        height: 20%;
+    }
+    .blanco{
+        color: rgba(255,255,251,255);
+    }
+    .degra-container {
+        display: flex;
+        justify-content: center;
+    }
+    .degra-container {
+        display: flex;
+        justify-content: center;
+    }
+    #res{
+        font-size: 2vw;
+    }
+    .degra {
+        color: rgba(195, 180, 255, 255);
+        width: 75%;
+        text-align: center; 
+    }
+    
+    .titlea{
+        margin-left: 4vh;
+        font-size:larger ;
+    
+    }    
+
+    .espaciado {
+        display: flex;
+        justify-content: space-between; 
+        align-items: center;
+        width: 100%;
+      }
+  
+
+  .texto {
+    margin-right: auto; 
+  }
+  
+
+  .numbers {
+    text-align: right;
+  }
+  
+
+  .rounded-md {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.5rem;
+    display: inline-flex;
+  
+  }
+  
+
+    #bot{
+        margin-left: 7%;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+        height: 50px; 
+        width: 87%;
+        border-radius: 50px;
+
+    
+    background-color: #17152c; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    .bag {
+        
+        color: rgb(255 255 255);
+    }
+
+  
+
+    }
